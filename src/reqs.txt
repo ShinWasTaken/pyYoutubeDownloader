@@ -1,0 +1,6 @@
+For this app to work open up a cmd and type these separately:
+
+"pip install yt-dlp"
+"choco install ffmpeg-full"
+
+Also make sure you have a file called "config.json" in the same directory as your .exe 
